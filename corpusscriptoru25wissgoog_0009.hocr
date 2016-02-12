@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru25wissgoog_0009.png"; bbox 0 0 3136 5036; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 543 2274 1153 2325">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 543 2274 1153 2325">
+     <span class='ocr_line' id='line_1_1' title="bbox 543 2274 1153 2325; baseline 0.008 -14"><span class='ocrx_word' id='word_1_1' title='bbox 543 2275 613 2322; x_wconf 74' lang='lat' dir='ltr'>&#39;rypls</span> <span class='ocrx_word' id='word_1_2' title='bbox 628 2275 740 2322; x_wconf 74' lang='lat' dir='ltr'>expressit</span> <span class='ocrx_word' id='word_1_3' title='bbox 755 2274 892 2323; x_wconf 79' lang='lat' dir='ltr'>Rudolphus</span> <span class='ocrx_word' id='word_1_4' title='bbox 907 2277 936 2314; x_wconf 81' lang='lat' dir='ltr'>M.</span> <span class='ocrx_word' id='word_1_5' title='bbox 951 2275 1047 2325; x_wconf 70' lang='lat' dir='ltr'>Ronrer,</span> <span class='ocrx_word' id='word_1_6' title='bbox 1063 2277 1153 2316; x_wconf 66' lang='lat' dir='ltr'>Brunae</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 690 2399 999 2406">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 690 2399 999 2406">
+     <span class='ocr_line' id='line_1_2' title="bbox 690 2399 999 2406; baseline 0.003 -1"><span class='ocrx_word' id='word_1_7' title='bbox 690 2399 911 2406; x_wconf 71' lang='lat'>-—--—----.-</span> <span class='ocrx_word' id='word_1_8' title='bbox 925 2400 974 2406; x_wconf 80' lang='lat'>-—-</span> <span class='ocrx_word' id='word_1_9' title='bbox 986 2401 999 2404; x_wconf 89' lang='lat'>--</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1572 5036">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1572 5036">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1572 5036; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1572 5036; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
